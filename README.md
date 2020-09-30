@@ -1,6 +1,6 @@
 # E aí 👋
 
-Esta é um pequeno resumo do que faço
+Este é um pequeno resumo do que faço:
 
 * Atualmente estou estudando na ETEC Antõnio Devisate e faço o curso de Desenvolvimento de Sistemas.
 
