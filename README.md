@@ -1,8 +1,4 @@
 # E aí 👋
-
-Este é um pequeno resumo do que faço:
-
-* Atualmente estou estudando na ETEC Antõnio Devisate e faço o curso de Desenvolvimento de Sistemas.
 <!--
 **Xambinho/xambinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
